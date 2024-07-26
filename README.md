@@ -16,6 +16,20 @@
 
 - 📫 How to reach me **mdhasinshadabkhan@gmail.com**
 
+- 👋 Hello World! I'm Md Hasin Shadab Khan, a second-year Computer Science enthusiast at Seneca Polytechnic in Scarborough, Canada, ready to dive into the professional world of web development and DevOps.
+
+- 🚀 Actively Seeking Opportunities: Actively exploring job opportunities with a strong foundation in the MERN stack. Currently engaged in a Real Estate project, refining skills in MongoDB, Mongoose, Express.js, React.js, Next.js, Node.js, MySQL, PHP, Docker, Kubernetes, AWS, Prometheus-Grafana, Nginx, Jenkins, Maven, GitHub Actions and Terraform.
+
+- 🌟 Passion for Innovation: As graduation approaches, my goal is to leverage my expertise in web development to contribute to groundbreaking projects and collaborate with forward-thinking teams.
+
+- 🎓 MERN Stack Specialist: Proficient in the MERN stack, specializing in crafting immersive user experiences through clean and efficient JavaScript code.
+
+- 🎓 DevOps Specialist: Expert in DevOps with a strong focus on enhancing user experiences through efficient JavaScript code and robust server management. Proficient in CI/CD pipelines, automation, and infrastructure as code, ensuring seamless development and deployment processes.
+
+- 🚀 Excited for the Future: Fueled by enthusiasm for the possibilities ahead, I'm open to exploring new opportunities and connecting with professionals in the tech community. Let's collaborate and build something amazing together to shape the future of the web!
+
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/hasin-shadab" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hasin-shadab" height="30" width="40" /></a>
